@@ -70,7 +70,7 @@ RegisterNumber:24900150
 ![RTL 3](https://github.com/user-attachments/assets/2f2ca73c-e38f-40ae-9de5-2a79d892f0ac)
 
 **Result:**
-thus,the truth table of a half adder and half subtractor circuit is  studied and verified in Quartus|| using Verilog programming.
+Thus,the truth table of a half adder and half subtractor circuit is  studied and verified in Quartus|| using Verilog programming.
 
 
 
